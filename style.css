@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+table{
+    margin: auto;
+    width: 632px;
+}
+th{
+    background-color: lightgray;
+    border-bottom: 2px solid black;
+    font-size: 15px;
+}
+span{
+    font-size: 25px;
+    font-weight: bold;
+}
+td{
+    padding-bottom: 20px;
+    width: 50%;
+    padding-left: 10px;
+}
+td:nth-child(1){
+    border-right: solid black 2px;
+}
+div{
+    width: 632px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+hr{
+    width: 300px;
+    height: 1px;
+    background-color: black;
+}
